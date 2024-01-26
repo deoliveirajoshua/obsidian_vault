@@ -1,0 +1,36 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "model": [
+        {
+          "changes": {
+            "icon": "lucide-puzzle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "135, 135, 135"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "91, 251, 248"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
