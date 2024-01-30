@@ -77,11 +77,11 @@ ___
 
 ### Additional Comments 
 
-$$
- \iint \nabla_{\theta}f(x) dx
-$$
+
 
 ```python
+import torch
+
 x = 5
 
 def foo(y: int=3) -> str:  

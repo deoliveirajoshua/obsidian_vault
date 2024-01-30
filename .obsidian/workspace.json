@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template for Reading A Paper.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0baa24e27d0f34fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Quadratric Approximation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad1ba9231ae2908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Quadratric Approximation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "right": {
     "id": "0fb6b8326bcc48d5",
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template for Reading A Paper.md",
+                "file": "Daily Notes/Quadratric Approximation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template for Reading A Paper.md",
+                "file": "Daily Notes/Quadratric Approximation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template for Reading A Paper.md"
+                "file": "Daily Notes/Quadratric Approximation.md"
               }
             }
           }
@@ -142,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,15 +182,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "07ac030eba2c2755",
+  "active": "6ad1ba9231ae2908",
   "lastOpenFiles": [
-    "Papers/Which Training Methods for GANs do Actually Converge.md",
+    "2024-01-29.md",
+    "Daily Notes/Quadratric Approximation.md",
+    "Hessian.md",
+    "Daily Notes/2024-01-27.md",
+    "Daily Notes/Test note.md",
+    "Permanent Notes",
     "Templates/Template for Reading A Paper.md",
+    "Papers/Which Training Methods for GANs do Actually Converge.md",
+    "Templates/Template for Authoring Research Paper.md",
     "2024-01-25.md",
     "otherwise,.md",
-    "Templates/Template for Authoring Research Paper.md",
-    "Untitled.md",
-    "Daily Notes/Test note.md",
     "Untitled.canvas",
     "Permanent Notes",
     "Daily Notes",
